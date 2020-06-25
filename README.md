@@ -9,7 +9,7 @@ We have split our guidelines into multiple documents for different audiences. Th
 
 ## Community Guidelines
 
-The [Community Guidelines](contribution-guidelines.md) contain rules and recommendations the Blue Nebula community commits itself to. As a community, we strive for a healthy, open and welcoming atmosphere, which is fun for everyone.
+The [Community Guidelines](community-guidelines.md) contain rules and recommendations the Blue Nebula community commits itself to. As a community, we strive for a healthy, open and welcoming atmosphere, which is fun for everyone.
 
 We strive for transparency in our moderative activities. The guidelines clearly show which parts are considered rules and enforced by the moderators, and which ones are considered recommendations.
 
